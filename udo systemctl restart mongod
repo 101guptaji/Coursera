@@ -1,0 +1,9 @@
+[0;1;31m●[0m mongod.service - MongoDB Database Server
+   Loaded: loaded (/lib/systemd/system/mongod.service; disabled; vendor preset: enabled)
+   Active: [0;1;31mfailed[0m (Result: exit-code) since Tue 2020-11-03 11:38:08 IST; 20s ago
+     Docs: https://docs.mongodb.org/manual
+ Main PID: 2318 (code=exited, status=14)
+
+Nov 03 11:38:08 himanshu-HP-Notebook systemd[1]: Started MongoDB Database Server.
+Nov 03 11:38:08 himanshu-HP-Notebook systemd[1]: [0;1;39m[0;1;31m[0;1;39mmongod.service: Main process exited, code=exited, status=14/n/a[0m
+Nov 03 11:38:08 himanshu-HP-Notebook systemd[1]: [0;1;39m[0;1;31m[0;1;39mmongod.service: Failed with result 'exit-code'.[0m
